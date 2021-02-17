@@ -2,7 +2,5 @@
 * We're currently working on it.
 ```
 $ Created by mix#0494
-$ Stop skidding.
 $ For StormFN
-
 ```
